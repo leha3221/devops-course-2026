@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/leha3221/devops-ci-app"
+app_tag: "4f4795e69305127e113fe2aca2dc4f25088c0081"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
